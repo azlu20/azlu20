@@ -3,6 +3,7 @@
 Check out my website if you haven't! https://azlu20.github.io/
 
 
+
 Things that I am Interested In:
 
 League of Legends ⌨️ 
@@ -16,6 +17,7 @@ Data Analysis 📈
 Machine Learning 💻💪
 
 Pretty Much Anything Tech Related ✔️✔️✔️
+
 
 
 Reach out to me if you want to talk about these or more! https://www.linkedin.com/in/albert-lu-20/

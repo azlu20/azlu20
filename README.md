@@ -2,15 +2,24 @@
 
 Check out my website if you haven't! https://azlu20.github.io/
 
+
 Things that I am Interested In:
+
 League of Legends ⌨️ 
+
 Fullstack Development 🔗
+
 Tennis 🎾
+
 Data Analysis 📈
+
 Machine Learning 💻💪
+
 Pretty Much Anything Tech Related ✔️✔️✔️
 
+
 Reach out to me if you want to talk about these or more! https://www.linkedin.com/in/albert-lu-20/
+
 Job Inquiries: a.z.lu@wustl.edu
 <!--
 **azlu20/azlu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

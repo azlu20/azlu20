@@ -16,6 +16,8 @@ Data Analysis 📈
 
 Machine Learning 💻💪
 
+Hiking 🥾
+
 Pretty Much Anything Tech Related ✔️✔️✔️
 
 

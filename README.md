@@ -6,13 +6,13 @@ Check out my website if you haven't! https://azlu20.github.io/
 
 Things that I am Interested In:
 
-League of Legends ⌨️ 
-
 Fullstack Development 🔗
 
-Tennis 🎾
+League of Legends ⌨️ 
 
 Data Analysis 📈
+
+Tennis 🎾
 
 Machine Learning 💻💪
 

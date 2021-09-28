@@ -1,6 +1,6 @@
 ### Didn't See You There! Why don't you stay for a little while?☕
 
-Check out my [website](albertlu.us) if you haven't! 
+Check out my [website](www.albertlu.us) if you haven't! 
 
 
 

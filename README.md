@@ -8,8 +8,6 @@ Things that I am Interested In:
 
 Fullstack Development 🔗
 
-League of Legends ⌨️ 
-
 Data Analysis 📈
 
 Tennis 🎾

@@ -1,28 +1,5 @@
-### Didn't See You There! Why don't you stay for a little while?☕
 
-Check out my website if you haven't! http://albertlu.us
-
-
-
-Things that I am Interested In:
-
-Fullstack Development 🔗
-
-Data Analysis 📈
-
-Tennis 🎾
-
-Machine Learning 💻💪
-
-Hiking 🥾
-
-Pretty Much Anything Tech Related ✔️✔️✔️
-
-
-
-Reach out to me if you want to talk about these or more! https://www.linkedin.com/in/albert-lu-20/
-
-Job Inquiries: albertlu2024@u.northwestern.edu
+Reach out to me @ https://www.linkedin.com/in/albert-lu-20/
 <!--
 **azlu20/azlu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
